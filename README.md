@@ -34,6 +34,7 @@ I am a **Data Scientist** with more than one year experience. I master of `Pytho
 <br />
 <br />
 <br />
+<br />
 
 ## Education 🎓
 - **Bachelor Degree of Information System** at [Syarif Hidayatullah State Islamic University Jakarta](https://fst.uinjkt.ac.id/)
@@ -47,7 +48,7 @@ I am a **Data Scientist** with more than one year experience. I master of `Pytho
 - ArcGIS 🌏
 - Design Thinking 🗒️
 
-## Connect With Me ☎️
+## Contact ☎️
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sabilahaq#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sabilahaq#gh-dark-mode-only)
