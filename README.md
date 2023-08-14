@@ -7,7 +7,7 @@ I am a **Data Scientist** with more than one year experience. I master of `Pytho
 - 🔭 I’m currently job seeker related to Data Science
 - 🌱 I’m currently learning Machine Learning, SQL, and Tableau
 - 👯 I’m looking to collaborate as Data Science and Data Analyst
-- 💬 Ask me about programming and data analytics
+- 💬 Ask me about programming, data analytics, or anything
 - 📫 How to reach me: sabilahaqq@gmail.com
 
 ## Experience 🚀
