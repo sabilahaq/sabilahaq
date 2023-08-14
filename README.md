@@ -36,7 +36,21 @@ I am a **Data Scientist** with more than one year experience. I master of `Pytho
 <br />
 
 ## Education 🎓
+- **Bachelor Degree of Information System** at [Syarif Hidayatullah State Islamic University Jakarta](https://fst.uinjkt.ac.id/)
+- **Data Science Bootcamp #Batch08** at [Tripleten Indonesia](https://tripleten.com/id-idn/)
 
 ## Skill ✨
+- Python: Pandas, Numpy, Geopandas, and Scikit-learn 🐍
+- Data Visualization: Excel, Seaborn, and Matplotlib 📈
+- Machine Learning 🤖 (basic)
+- SQL 🗃️ (basic)
+- ArcGIS 🌏
+- Design Thinking 🗒️
 
 ## Connect With Me ☎️
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sabilahaq#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sabilahaq#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/sabilahaq/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/sabilahaq/#gh-dark-mode-only)
