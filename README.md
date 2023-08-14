@@ -1,6 +1,6 @@
 # Hi, I'm [Sabila Haq](https://www.linkedin.com/in/sabilahaq/)
 
-I am a **Data Scientist** with more than one year experience. I master of `Python` and currently deepening knowledge of data science at [Tripleten Indonesia](https://tripleten.com/id-idn/). I love cooking 🍳, painting 🎨, and nature activities 🏕️.
+I am a **Data Scientist** with more than one year experience. I master of `Python` and currently deepening knowledge of data science at [Tripleten Indonesia](https://tripleten.com/id-idn/). I love cooking 🍳, painting 🎨, and outdoor activities 🏕️.
 
 ## About Me 👩🏻‍💻
 
