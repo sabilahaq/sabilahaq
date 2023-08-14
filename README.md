@@ -1,8 +1,10 @@
 # Hi, I'm [Sabila Haq](https://www.linkedin.com/in/sabilahaq/)
 
-**sabilahaq/sabilahaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Scientist with more than one year experience. I master of _Python Programming Language_ and currently deepening knowledge of data science, especially about _Machine Learning, SQL, and Tableau_ at [Tripleten Indonesia](https://tripleten.com/id-idn/). I love cooking🍳, painting🎨, and nature activities🏕️
 
-## About Me ✨
+<!--**sabilahaq/sabilahaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.👩🏻‍💻💻🎓🏅🏆-->
+
+## About Me 👩🏻‍💻
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,8 +16,10 @@
 - ⚡ Fun fact: ...
 -->
 
-## Experience
+## Experience 💻
 
-## Certification
+## Certification 🏅
 
-## Education
+## Education 🎓
+
+## Skill ✨
